@@ -12,7 +12,7 @@ Aspiring Front-End Developer <br>| Multilingual communicator <br>| I currently w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rehamej&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rehamej&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quote
+### ✍️ Random Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
